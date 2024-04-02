@@ -1,3 +1,5 @@
+# CPSC 4200/6200 HW4 Spring 2024
+
 Start by running `./build.sh` to set up your targets. It will prompt 
 for usernames. Enter all usernames in your group, separated by spaces.
 Each group’s targets will be slightly different, so make sure your
